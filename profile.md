@@ -1,4 +1,4 @@
-this is test profile[^1]
+*this* is __test profile__[^1]
 
 
 [^1]: footnote test
